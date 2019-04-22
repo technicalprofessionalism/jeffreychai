@@ -1,0 +1,42 @@
+/*
+CSS Code by Jeffrey Chai
+This is used to enhance the color and add more pizzaz to the website itself.
+*/
+
+body {
+    /* Typography Declarations */
+    color: #2f056b;
+    background: #85e58d;
+    font-size: 14;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.content-footer{
+  text-align: left;
+}
+.masthead-heading,
+.masthead-intro {
+  text-align: center;
+}
+
+.mast-heading{
+  margin-top: 0;
+}
+
+.masthead {
+  padding: 6em 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-top: solid 1em #ff7d32;
+}
+.masthead-heading {
+    /* Layout Declarations */
+    color: #1e79e8;
+    margin-top: -0.2em;
+    /* Typography Declarations */
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    font-size: 28;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+}
